@@ -13,4 +13,8 @@ git has a mutable index called stage git tacks changes of file
 >>>>>>> feature1
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+change test 
 >>>>>>> Stashed changes
