@@ -6,3 +6,7 @@ readTXT and one line
 
 git has a mutable index called stage git tacks changes of files.
 
+Git  can create  a new branch quickly
+
+
+
