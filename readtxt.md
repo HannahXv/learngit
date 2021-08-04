@@ -20,3 +20,5 @@ change test
 >>>>>>> Stashed changes
 
 don't know what's happed
+
+to test bug branch    change readtxt in dev branch 
