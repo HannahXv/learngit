@@ -4,5 +4,5 @@ Git is free software distributed under the GPL.
 readTXT and one line
 ```
 
-git has a mutable index called stage git tacks changes
+git has a mutable index called stage git tacks changes of files.
 
